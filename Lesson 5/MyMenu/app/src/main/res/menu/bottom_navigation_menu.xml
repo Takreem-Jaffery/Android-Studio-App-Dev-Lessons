@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="About Me"
+    android:id="@+id/menu_aboutme"/>
+    <item android:title="Home Page"
+        android:id="@+id/menu_homepage"/>
+    <item android:title="Profile Page"
+        android:id="@+id/menu_profile"/>
+</menu>
